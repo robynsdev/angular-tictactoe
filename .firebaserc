@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-tictactoe-8fb9e": {
+      "hosting": {
+        "tictactoe": [
+          "angular-tictactoe-8fb9e"
+        ]
+      }
+    }
+  }
+}
